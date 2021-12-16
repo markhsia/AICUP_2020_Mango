@@ -1,6 +1,6 @@
 cuda: True
 ngpu: 4
-num_workers: 16
+num_workers: 1
 seed: 42
 
 ema: True
